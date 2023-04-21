@@ -1,0 +1,58 @@
+.common{
+    font-family:'Times New Roman', Times, serif;
+}
+
+.header{
+    height:100px;
+    background-color: black;
+    color: white;
+    line-height: 100px;
+    text-align: center;
+
+}
+
+.mainbody{
+    background-color: lightgrey;
+
+}
+
+footer a{
+    height: 25px;
+    background-color: black;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    padding-top: 15px;
+    text-decoration: none;
+    color: whitesmoke;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 35%;
+
+}
+
+
+nav a{
+    float: left;
+    color: black;
+    padding: 10px 13px;
+    text-decoration: none;
+    font-size: 26px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+}
+
+ol{
+    font-size: 25px;
+}
